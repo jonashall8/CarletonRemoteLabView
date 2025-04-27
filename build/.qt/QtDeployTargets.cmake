@@ -1,0 +1,6 @@
+set(__QT_DEPLOY_TARGET_server_FILE C:/Users/jonas/OneDrive/Desktop/2025Projects/build/server.exe)
+set(__QT_DEPLOY_TARGET_server_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_server_RUNTIME_DLLS C:/msys64/ucrt64/bin/Qt6Network.dll;C:/msys64/ucrt64/bin/Qt6Core.dll)
+set(__QT_DEPLOY_TARGET_client_FILE C:/Users/jonas/OneDrive/Desktop/2025Projects/build/client.exe)
+set(__QT_DEPLOY_TARGET_client_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_client_RUNTIME_DLLS C:/msys64/ucrt64/bin/Qt6Widgets.dll;C:/msys64/ucrt64/bin/Qt6Network.dll;C:/msys64/ucrt64/bin/Qt6Gui.dll;C:/msys64/ucrt64/bin/Qt6Core.dll)

@@ -1,0 +1,8 @@
+C:/Users/jonas/OneDrive/Desktop/2025Projects/build/CMakeFiles/server.dir
+C:/Users/jonas/OneDrive/Desktop/2025Projects/build/CMakeFiles/client.dir
+C:/Users/jonas/OneDrive/Desktop/2025Projects/build/CMakeFiles/edit_cache.dir
+C:/Users/jonas/OneDrive/Desktop/2025Projects/build/CMakeFiles/rebuild_cache.dir
+C:/Users/jonas/OneDrive/Desktop/2025Projects/build/CMakeFiles/server_autogen_timestamp_deps.dir
+C:/Users/jonas/OneDrive/Desktop/2025Projects/build/CMakeFiles/server_autogen.dir
+C:/Users/jonas/OneDrive/Desktop/2025Projects/build/CMakeFiles/client_autogen_timestamp_deps.dir
+C:/Users/jonas/OneDrive/Desktop/2025Projects/build/CMakeFiles/client_autogen.dir

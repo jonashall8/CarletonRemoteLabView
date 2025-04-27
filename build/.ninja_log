@@ -1,0 +1,24 @@
+# ninja log v6
+69	263	7674923518907750	C:/Users/jonas/OneDrive/Desktop/2025Projects/build/client_autogen/timestamp	1a6f89cfb41aeb44
+61	987	7674923518827716	server_autogen/mocs_compilation.cpp	87ae560d14b72571
+61	987	7674923518827716	C:/Users/jonas/OneDrive/Desktop/2025Projects/build/server_autogen/mocs_compilation.cpp	87ae560d14b72571
+61	987	7674923518827716	C:/Users/jonas/OneDrive/Desktop/2025Projects/build/server_autogen/timestamp	87ae560d14b72571
+69	263	7674923518907750	C:/Users/jonas/OneDrive/Desktop/2025Projects/build/client_autogen/mocs_compilation.cpp	1a6f89cfb41aeb44
+3786	4040	7674923556054146	client.exe	48b645f000119b1e
+61	987	7674923518827716	server_autogen/timestamp	87ae560d14b72571
+59	3938	7674922166185309	CMakeFiles/client.dir/client_autogen/mocs_compilation.cpp.obj	28c98d240f3e77da
+3548	3756	7674923553673310	server.exe	e2ce9d6d2626449c
+69	263	7674923518907750	client_autogen/mocs_compilation.cpp	1a6f89cfb41aeb44
+1092	1221	7674922176501115	CMakeFiles/server.dir/server_autogen/mocs_compilation.cpp.obj	65eb1f1260941dec
+64	3839	7674922166265333	CMakeFiles/client.dir/src/client/main.cpp.obj	aa4a665b95706844
+69	263	7674923518907750	client_autogen/timestamp	1a6f89cfb41aeb44
+265	3786	7674923520907743	CMakeFiles/client.dir/src/client/monitorwindow.cpp.obj	c8eb8e1463d43ee0
+988	3547	7674923528132769	CMakeFiles/server.dir/src/server/server.cpp.obj	6fb5641892544dfc
+66	1041	7674928811756147	client_autogen/timestamp	1a6f89cfb41aeb44
+66	1041	7674928811756147	client_autogen/mocs_compilation.cpp	1a6f89cfb41aeb44
+66	1041	7674928811756147	C:/Users/jonas/OneDrive/Desktop/2025Projects/build/client_autogen/timestamp	1a6f89cfb41aeb44
+66	1041	7674928811756147	C:/Users/jonas/OneDrive/Desktop/2025Projects/build/client_autogen/mocs_compilation.cpp	1a6f89cfb41aeb44
+1047	4389	7674928812461795	CMakeFiles/client.dir/src/client/main.cpp.obj	aa4a665b95706844
+1043	4408	7674928812381765	CMakeFiles/client.dir/client_autogen/mocs_compilation.cpp.obj	28c98d240f3e77da
+1051	4739	7674928812501438	CMakeFiles/client.dir/src/client/monitorwindow.cpp.obj	c8eb8e1463d43ee0
+4739	5043	7674928849387290	client.exe	48b645f000119b1e

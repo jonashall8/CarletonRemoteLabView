@@ -1,0 +1,32 @@
+[
+{
+  "directory": "C:/Users/jonas/OneDrive/Desktop/2025Projects/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_NETWORK_LIB -DUNICODE -DWIN32 -DWIN64 -DWINVER=0x0A00 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN32_WINNT=0x0A00 -D_WIN64 -IC:/Users/jonas/OneDrive/Desktop/2025Projects/build/server_autogen/include -isystem C:/msys64/ucrt64/include/qt6/QtCore -isystem C:/msys64/ucrt64/include/qt6 -isystem C:/msys64/ucrt64/share/qt6/mkspecs/win32-g++ -isystem C:/msys64/ucrt64/include/qt6/QtNetwork -g -std=gnu++17 -o CMakeFiles\\server.dir\\server_autogen\\mocs_compilation.cpp.obj -c C:\\Users\\jonas\\OneDrive\\Desktop\\2025Projects\\build\\server_autogen\\mocs_compilation.cpp",
+  "file": "C:\\Users\\jonas\\OneDrive\\Desktop\\2025Projects\\build\\server_autogen\\mocs_compilation.cpp",
+  "output": "CMakeFiles\\server.dir\\server_autogen\\mocs_compilation.cpp.obj"
+},
+{
+  "directory": "C:/Users/jonas/OneDrive/Desktop/2025Projects/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_NETWORK_LIB -DUNICODE -DWIN32 -DWIN64 -DWINVER=0x0A00 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN32_WINNT=0x0A00 -D_WIN64 -IC:/Users/jonas/OneDrive/Desktop/2025Projects/build/server_autogen/include -isystem C:/msys64/ucrt64/include/qt6/QtCore -isystem C:/msys64/ucrt64/include/qt6 -isystem C:/msys64/ucrt64/share/qt6/mkspecs/win32-g++ -isystem C:/msys64/ucrt64/include/qt6/QtNetwork -g -std=gnu++17 -o CMakeFiles\\server.dir\\src\\server\\server.cpp.obj -c C:\\Users\\jonas\\OneDrive\\Desktop\\2025Projects\\src\\server\\server.cpp",
+  "file": "C:\\Users\\jonas\\OneDrive\\Desktop\\2025Projects\\src\\server\\server.cpp",
+  "output": "CMakeFiles\\server.dir\\src\\server\\server.cpp.obj"
+},
+{
+  "directory": "C:/Users/jonas/OneDrive/Desktop/2025Projects/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -DWINVER=0x0A00 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN32_WINNT=0x0A00 -D_WIN64 -IC:/Users/jonas/OneDrive/Desktop/2025Projects/build/client_autogen/include -isystem C:/msys64/ucrt64/include/qt6/QtCore -isystem C:/msys64/ucrt64/include/qt6 -isystem C:/msys64/ucrt64/share/qt6/mkspecs/win32-g++ -isystem C:/msys64/ucrt64/include/qt6/QtWidgets -isystem C:/msys64/ucrt64/include/qt6/QtGui -isystem C:/msys64/ucrt64/include/qt6/QtNetwork -g -std=gnu++17 -o CMakeFiles\\client.dir\\client_autogen\\mocs_compilation.cpp.obj -c C:\\Users\\jonas\\OneDrive\\Desktop\\2025Projects\\build\\client_autogen\\mocs_compilation.cpp",
+  "file": "C:\\Users\\jonas\\OneDrive\\Desktop\\2025Projects\\build\\client_autogen\\mocs_compilation.cpp",
+  "output": "CMakeFiles\\client.dir\\client_autogen\\mocs_compilation.cpp.obj"
+},
+{
+  "directory": "C:/Users/jonas/OneDrive/Desktop/2025Projects/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -DWINVER=0x0A00 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN32_WINNT=0x0A00 -D_WIN64 -IC:/Users/jonas/OneDrive/Desktop/2025Projects/build/client_autogen/include -isystem C:/msys64/ucrt64/include/qt6/QtCore -isystem C:/msys64/ucrt64/include/qt6 -isystem C:/msys64/ucrt64/share/qt6/mkspecs/win32-g++ -isystem C:/msys64/ucrt64/include/qt6/QtWidgets -isystem C:/msys64/ucrt64/include/qt6/QtGui -isystem C:/msys64/ucrt64/include/qt6/QtNetwork -g -std=gnu++17 -o CMakeFiles\\client.dir\\src\\client\\main.cpp.obj -c C:\\Users\\jonas\\OneDrive\\Desktop\\2025Projects\\src\\client\\main.cpp",
+  "file": "C:\\Users\\jonas\\OneDrive\\Desktop\\2025Projects\\src\\client\\main.cpp",
+  "output": "CMakeFiles\\client.dir\\src\\client\\main.cpp.obj"
+},
+{
+  "directory": "C:/Users/jonas/OneDrive/Desktop/2025Projects/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -DWINVER=0x0A00 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN32_WINNT=0x0A00 -D_WIN64 -IC:/Users/jonas/OneDrive/Desktop/2025Projects/build/client_autogen/include -isystem C:/msys64/ucrt64/include/qt6/QtCore -isystem C:/msys64/ucrt64/include/qt6 -isystem C:/msys64/ucrt64/share/qt6/mkspecs/win32-g++ -isystem C:/msys64/ucrt64/include/qt6/QtWidgets -isystem C:/msys64/ucrt64/include/qt6/QtGui -isystem C:/msys64/ucrt64/include/qt6/QtNetwork -g -std=gnu++17 -o CMakeFiles\\client.dir\\src\\client\\monitorwindow.cpp.obj -c C:\\Users\\jonas\\OneDrive\\Desktop\\2025Projects\\src\\client\\monitorwindow.cpp",
+  "file": "C:\\Users\\jonas\\OneDrive\\Desktop\\2025Projects\\src\\client\\monitorwindow.cpp",
+  "output": "CMakeFiles\\client.dir\\src\\client\\monitorwindow.cpp.obj"
+}
+]

@@ -1,0 +1,23 @@
+{
+  "configurations": [
+      {
+          "name": "Win32",
+          "intelliSenseMode": "windows-gcc-x64",
+          "compilerPath": "C:/msys64/ucrt64/bin/g++.exe",
+          "includePath": [
+              "${workspaceFolder}/**",
+              "C:/msys64/ucrt64/include/qt6",
+              "C:/msys64/ucrt64/include/qt6/QtCore",
+              "C:/msys64/ucrt64/include/qt6/QtWidgets",
+              "C:/msys64/ucrt64/include/qt6/QtNetwork"
+          ],
+          "defines": [
+              "UNICODE",
+              "_UNICODE"
+          ],
+          "cStandard": "c11",
+          "cppStandard": "c++17"
+      }
+  ],
+  "version": 4
+}
